@@ -6,13 +6,15 @@ WinUtil contains utilities that make it easy to write Windows Apps.
 #### Utilities:
 
 * Chm Decomipler Utility
-* Wrappered Thread / Thread Group class:
-  - easy to manage
-  - easy to update progress
-  - easy to communicate with UI thread
+* Wrappered Thread / Thread Group classes:
+  - Easy to manage
+  - Easy to update progress
+  - Easy to communicate with UI thread
 * Cmd Utility  
-    execute command and inform caller thread the command output
-* WMI reader / writer in JSON format
+  - Execute command and inform caller thread the command output
+* WMI Utility to use JSON as parameters:
+    - Get Namespace, Class, Objects, Path
+    - Execute Method
 
 #### Dependency
 
